@@ -1,0 +1,7 @@
+pytest==5.2.0
+
+requests
+
+# Development
+pdbpp
+pytest
